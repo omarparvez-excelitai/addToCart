@@ -44,7 +44,7 @@ class _MyHomePageState extends State<MyHomePage> {
         children: [
           Row(
             children: [
-              Image.network("https://media.gettyimages.com/photos/classical-cocacola-bottle-picture-id157726102?s=612x612https://media.istockphoto.com/photos/cocacola-classic-in-a-glass-bottle-picture-id499208007?k=20&m=499208007&s=612x612&w=0&h=ZGZi6HI8himQzfsWxH9Ak3CU2zFSGK4gyzAHnRLw7kY=",
+              Image.network("https://cdn.britannica.com/84/73184-004-E5A450B5/Sunflower-field-Fargo-North-Dakota.jpg",
                 height: 120.0, width: 80.0,
 
 
@@ -52,7 +52,7 @@ class _MyHomePageState extends State<MyHomePage> {
               Column(
                 children:  [
                   Text('Green Burqa with Hijab'),
-                  Text('* * * * * ( 10 Review'),
+                  Text('* * * * * ( 10 Review )'),
                   SizedBox(height: 15.0,),
                   Text("৳17,000"),
                   Row(
